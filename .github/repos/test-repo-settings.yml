@@ -17,7 +17,7 @@ repository:
   topics:
     - new-github
     - another-probot-app
-    - test-safe-seeting-managed
+    - test-safe-settings-managed
 
 #   # Settings for Code security and analysis
 #   # Dependabot Alerts
