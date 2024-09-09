@@ -38,10 +38,10 @@ repository:
 
 #   # Either `true` to enable projects for this repository, or `false` to disable them.
 #   # If projects are disabled for the organization, passing `true` will cause an API error.
-  has_projects: true
+  has_projects: false
 
 #   # Either `true` to enable the wiki for this repository, `false` to disable it.
-  has_wiki: true
+  has_wiki: false
 
 #   # The default branch for this repository.
 #   default_branch: main
@@ -90,7 +90,7 @@ repository:
 # # The following attributes are applied to any repo within the org
 # # So if a repo is not listed above is created or edited
 # # The app will apply the following settings to it
-# labels:
+labels:
 #   # Labels: define labels for Issues and Pull Requests
 #   include:
 #     - name: bug
