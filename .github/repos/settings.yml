@@ -11,7 +11,7 @@ repository:
 
 #   # Create an initial commit with empty README.
 #   # Keep this set to true in most cases since many of the policies below cannot be implemented on bare repos
-#   auto_init: true
+  auto_init: true
 
 #   # A list of topics to set on the repository - can alternatively set like this: [github, probot, new-topic, another-topic, topic-12]
 #   topics:
