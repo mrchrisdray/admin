@@ -14,9 +14,10 @@ repository:
   auto_init: true
 
 #   # A list of topics to set on the repository - can alternatively set like this: [github, probot, new-topic, another-topic, topic-12]
-#   topics:
-#     - new-topic
-#     - another-topic
+  topics:
+    - new-github
+    - another-probot-app
+    - test-safe-seeting-managed
 
 #   # Settings for Code security and analysis
 #   # Dependabot Alerts
