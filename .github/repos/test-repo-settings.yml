@@ -15,9 +15,9 @@ repository:
 
 #   # A list of topics to set on the repository - can alternatively set like this: [github, probot, new-topic, another-topic, topic-12]
   topics:
-    - new-github
-    - another-probot-app
-    - test-safe-settings-managed
+    - new-topic
+    - another-topic
+    - test-topic
 
 #   # Settings for Code security and analysis
 #   # Dependabot Alerts
